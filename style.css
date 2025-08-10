@@ -94,7 +94,7 @@ p {
 @media (max-width: 576px) {
   h1 {
     font-size: 48px;
-    text-align: center;
+    line-height: 1.5;
   }
 
   h2 {
